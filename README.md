@@ -11,7 +11,8 @@ This was my final project for Gaming course. I used maven structure to structure
 'mvn clean package' or 'mvn -f "C:\classpath\pom.xml" clean package
 
 ## How it will look!
-- In the beginning: 
+- In the beginning:
+
 ![Game Model Panel](GameModeSelectionUI.png)
 
 # ENJOY!!
